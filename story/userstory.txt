@@ -1,0 +1,13 @@
+#Acceptance criteria
+
+##inital page
+user should see a landing page that outlines the story being told and some visual to represent it. There should be a button that allows the user to start the story 
+
+##story
+when the play button is pressed, the page dynamically changes with JavaScript and images,backgrounds, and bodies of text change.
+
+## story continued 
+The user will have two options outlined by two buttons. The story will change based on users decision.
+
+##ending 
+There will be alternative endings based on the users decisions throughout the story. At the story finished page, the user will have a back home button that will take them back to the title page.
